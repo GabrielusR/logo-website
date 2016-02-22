@@ -1,3 +1,4 @@
 # Logo Website
+---
 
-[Live preview >](https://gabrielusr.github.io/logo-website/)
+[See it live here](https://gabrielusr.github.io/logo-website/)
